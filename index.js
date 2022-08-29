@@ -1,3 +1,7 @@
+
+// https://www.youtube.com/watch?v=kH4UbdlBZHs&list=PLrAw40DbN0l0CtcIRNmM5ZTM6o8Nmwdk5&index=2
+
+
 const oracledb = require('oracledb')
 const express = require('express')
 const bodyParser = require('body-parser')
